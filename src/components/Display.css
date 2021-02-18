@@ -1,0 +1,16 @@
+.displayContainer{
+    flex: 1;
+    display: flex;
+    /* border: 2px solid red; */
+    justify-content: flex-end;
+}
+
+.value{
+    /* border: 2px solid black; */
+    align-self: flex-end;
+    margin: 5px;
+    width: 100vw;
+    /* font-weight: bold; */
+    font-size: 3rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
